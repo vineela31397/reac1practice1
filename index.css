@@ -1,0 +1,19 @@
+/* Write your code here. */
+.backGround {
+  text-align: center;
+  background-color: #0f172a;
+  font-family: "Roboto";
+  margin: 10px;
+  padding-top: 50px;
+  width: 100vw;
+  height: 100vh;
+}
+.heading {
+  color: #f8fafc;
+  font-family: "Roboto";
+  font-size: "x-small";
+}
+.image {
+  width: 150px;
+  height: 150px;
+}
